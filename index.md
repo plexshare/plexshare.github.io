@@ -7,6 +7,7 @@ Below you are able to find a list with the providers.
 If you are a provider and would like to be added/removed from the list please submit a request here:[ https://forms.gle/s1W14JWsKSqZQ8jcA](https://forms.gle/s1W14JWsKSqZQ8jcA).
 
 ## Providers (plex, emby, jellyfin)
+This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
 ### SuitsPlex
 - Products: Plex shares, Plex appboxes, Plex Baremetals
