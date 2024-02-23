@@ -92,6 +92,16 @@ This website is managed by an independent person who is not affiliated with any 
 - Prices - 10$/month, multiple plans
 - Payment type - Paypal, Crypto
 
+### Rogue Streamz
+- Products: Plex shares, Plex appboxes, Emby shares, Emby appboxes
+- Website - [roguestreamz.cc](http://roguestreamz.cc/)
+- Discord -  [discord.gg/roguestreamz](https://discord.com/invite/roguestreamz)
+- Content - 24K M, 10K TV Shows / 4K, Anime, Kids
+- Server location - US & EU
+- CDN - Yes
+- Prices - 8$/month, multiple plans
+- Payment type - Paypal
+
 ### PlexStory Inc
 - Website - No
 - Discord -  [https://discord.gg/QZm8UmQjhY](https://discord.gg/QZm8UmQjhY)
@@ -99,16 +109,6 @@ This website is managed by an independent person who is not affiliated with any 
 - Server location - US&EU
 - CDN - Yes
 - Prices - 11$/month, multiple plans
-- Payment type - Paypal
-
-### Rogue Streamz
-- Products: Plex appboxes, Emby shares
-- Website - [roguestreamz.cc](http://roguestreamz.cc/)
-- Discord -  [discord.gg/roguestreamz](https://discord.com/invite/roguestreamz)
-- Content - 16K M, 7K TV Shows / 4K, Anime, Kids
-- Server location - US & EU
-- CDN - Yes - CloudFlare
-- Prices - 8$/month, multiple plans
 - Payment type - Paypal
 
 If you are a provider please submit a request at: [ https://forms.gle/s1W14JWsKSqZQ8jcA](https://forms.gle/s1W14JWsKSqZQ8jcA)
