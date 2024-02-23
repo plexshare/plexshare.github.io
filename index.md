@@ -1,7 +1,3 @@
-<head>
-<meta name="google-site-verification" content="ywPskR9RVypF5ltwWgZ_2WxPF5ZP5SeYNirQGh4UNyM" />
-</head>
-
 ## Welcome to PlexShare
 
 r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/plexshares Reddit has been closed on 05/19/2022.
