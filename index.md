@@ -20,7 +20,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - Paypal, Crypto
 
 ### Project Valhalla
-- Products: ?
+- Products: Plex shares, Plex appboxes
 - Website - [https://projectvalhalla.eu/](https://projectvalhalla.eu/)
 - Discord - No longer valid as of 01/2024
 - Content - 56K M, 8.5K TV Shows / Anime, Kids
