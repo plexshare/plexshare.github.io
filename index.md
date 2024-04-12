@@ -4,17 +4,10 @@ r/plexshares was the biggest Reddit community where you could choose a plex prov
 
 Below you are able to find a list with the providers.
 
-## Providers (plex, emby, jellyfin)
+If you are a provider and would like to be added/removed from the list please submit a request here:[ https://forms.gle/s1W14JWsKSqZQ8jcA](https://forms.gle/s1W14JWsKSqZQ8jcA).
 
-### ZyfServer
-- Products: Plex, Emby, Jellyfin shares, Plex appboxes, Plex, Emby, Jellyfin Baremetals,
-- Discord - [https://rebrand.ly/6u3bins](https://rebrand.ly/6u3bins)
-- Telegram - [https://t.me/wanmaster](t.me/wanmaster)
-- Content - 41K M, 12K TV Shows, 2800 Anime, Kids and 4K
-- Server location - US
-- CDN - Yes Global
-- Prices - Starting at 5$/month, multiple plans
-- Payment type - Card, Paypal, Crypto
+## Providers (plex, emby, jellyfin)
+This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
 ### SuitsPlex
 - Products: Plex shares, Plex appboxes, Plex Baremetals
@@ -118,3 +111,14 @@ Below you are able to find a list with the providers.
 - Prices - 11$/month, multiple plans
 - Payment type - Paypal
 
+### ZyfServer
+- Products: Plex, Emby, Jellyfin shares, Plex appboxes, Plex, Emby, Jellyfin Baremetals,
+- Discord - [https://rebrand.ly/6u3bins](https://rebrand.ly/6u3bins)
+- Telegram - [https://t.me/wanmaster](t.me/wanmaster)
+- Content - 41K M, 12K TV Shows, 2800 Anime, Kids and 4K
+- Server location - US
+- CDN - Yes Global
+- Prices - Starting at 5$/month, multiple plans
+- Payment type - Card, Paypal, Crypto
+
+If you are a provider please submit a request at: [ https://forms.gle/s1W14JWsKSqZQ8jcA](https://forms.gle/s1W14JWsKSqZQ8jcA)
