@@ -111,4 +111,14 @@ This website is managed by an independent person who is not affiliated with any 
 - Prices - 11$/month, multiple plans
 - Payment type - Paypal
 
+### ZyfServer
+- Products: Plex, Emby, Jellyfin shares, Plex appboxes, Plex, Emby, Jellyfin Baremetals,
+- Discord - [https://rebrand.ly/6u3bins](https://rebrand.ly/6u3bins)
+- Telegram - [https://t.me/wanmaster](t.me/wanmaster)
+- Content - 41K M, 12K TV Shows, 2800 Anime, Kids and 4K
+- Server location - US
+- CDN - Yes Global
+- Prices - Starting at 5$/month, multiple plans
+- Payment type - Card, Paypal, Crypto
+
 If you are a provider please submit a request at: [ https://forms.gle/s1W14JWsKSqZQ8jcA](https://forms.gle/s1W14JWsKSqZQ8jcA)
