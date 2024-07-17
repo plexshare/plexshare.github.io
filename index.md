@@ -9,13 +9,12 @@ If you are a provider and would like to be added/removed from the list please su
 ## Providers (plex, emby, jellyfin)
 This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
-### SuitsPlex
-- Products: Plex shares, Plex appboxes, Plex Baremetals
-- Discord - [https://discord.gg/jCh9QsxxUH](https://discord.gg/jCh9QsxxUH)
-- Telegram
-- Content - 25K M, 10K TV Shows / Anime, Kids, 4K
-- Server location - EU
-- CDN - ?
+### Avalon
+- Products: Plex shares, Plex appboxes, Emby shares, Emby appboxes
+- Discord - [https://discord.gg/cWguyK6Ecy](https://discord.gg/cWguyK6Ecy)
+- Content - 73K M, 22K TV Shows / 4K, 4K DV, Anime
+- Server location - EU & US
+- CDN - Yes
 - Prices - 10$/month, multiple plans
 - Payment type - Paypal, Crypto
 
@@ -26,25 +25,25 @@ This website is managed by an independent person who is not affiliated with any 
 - Content - 56K M, 8.5K TV Shows / Anime, Kids
 - Server location - EU & US
 - CDN - Yes
-- Prices - 7€/month, multiple plans available
+- Prices - 10€/month, multiple plans available
 - Payment type - PayPal 
 
-### Diamond Media
-- Products: Plex shares, Plex appboxes, Emby shares
-- Discord - [https://discord.gg/vAxePvYCUv](https://discord.gg/vAxePvYCUv)
-- Content - 73K M, 21K TV Shows / 4K, 4K DV, Anime
+### Nocturno
+- Products: Plex shares, Emby shares
+- Discord - [https://discord.gg/4ZpEXKVn8u](https://discord.gg/4ZpEXKVn8u)
+- Content - 44K M, 15K TV Shows / 4K, Kids TV, Anime
 - Server location - EU & US
 - CDN - Yes
 - Prices - 10$/month, multiple plans
 - Payment type - Paypal, Crypto
 
-### Warehouse Plex
-- Products: Plex shares, Plex appboxes, Plex Baremetals 
-- Discord - [https://discord.gg/vBqMYNZswZ](https://discord.gg/vBqMYNZswZ)
-- Content - 25K M, 6K TV Shows / 4K M & 4K TV
+### ZyfServer
+- Products: Plex appboxes, Emby Shares 
+- Discord - [https://discord.com/invite/pDtBCKSj5v](https://discord.com/invite/pDtBCKSj5v)
+- Content - 35K M, 10K TV Shows, 2800 Anime, Kids and 4K (Great anime collection)
 - Server location - EU
-- CDN - ?
-- Prices - 20$/month, multiple plans
+- CDN - Yes
+- Prices - Starting at 10$/month, multiple plans
 - Payment type - Paypal, Crypto
 
 ### Wings and Plex
