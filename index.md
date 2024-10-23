@@ -9,14 +9,14 @@ If you are a provider and would like to be added/removed from the list please su
 ## Providers (plex, emby, jellyfin)
 This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
-### Avalon
+### Jill Media
 - Products: Plex shares, Plex appboxes, Emby shares, Emby appboxes
-- Discord - [https://discord.gg/cWguyK6Ecy](https://discord.gg/cWguyK6Ecy)
-- Content - 73K M, 22K TV Shows / 4K, 4K DV, Anime
-- Server location - EU & US
+- Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
+- Content - 37K M, 11.8K TV Shows / 4K, 4K DV, Anime
+- Server location - Canada/USA
 - CDN - Yes
-- Prices - 10$/month, multiple plans
-- Payment type - Paypal, Crypto
+- Prices - Starting at 7$/month, multiple plans
+- Payment type - Paypal, Card
 
 ### Project Valhalla
 - Products: Plex shares, Plex appboxes
