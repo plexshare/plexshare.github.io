@@ -12,21 +12,20 @@ This website is managed by an independent person who is not affiliated with any 
 ### Jill Media
 - Products: Plex shares, Plex appboxes, Emby shares, Emby appboxes
 - Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
-- Content - 37K M, 11.8K TV Shows / 4K, 4K DV, Anime
+- Content - 41K M, 12K TV Shows / 4K, 4K DV, Anime
 - Server location - Canada/USA
 - CDN - Yes
 - Prices - Starting at 7$/month, multiple plans
 - Payment type - Paypal, Card
 
-### Project Valhalla
-- Products: Plex shares, Plex appboxes
-- Website - [https://projectvalhalla.eu/](https://projectvalhalla.eu/)
-- Discord - No longer valid as of 01/2024
-- Content - 56K M, 8.5K TV Shows / Anime, Kids
+### HDBits
+- Products: Plex Shares, Emby Shares
+- Discord - [https://discord.gg/hdbits](https://discord.gg/hdbits)
+- Content - 57K+ M, 19K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
 - Server location - EU & US
-- CDN - Yes
-- Prices - 10€/month, multiple plans available
-- Payment type - PayPal 
+- CDN - No (but good peering)
+- Prices - 7$/month, multiple plans
+- Payment type - Paypal, Crypto, Card 
 
 ### Nocturno
 - Products: Plex shares, Emby shares
@@ -55,15 +54,6 @@ This website is managed by an independent person who is not affiliated with any 
 - Prices - 20$/month, multiple plans
 - Payment type - Paypal, Crypto
 
-### My Plex
-- Products: Plex shares
-- Discord - [https://discord.gg/4GeCR24mA9](https://discord.gg/4GeCR24mA9)
-- Content - 30K M, 19K TV Shows / 4K
-- Server location - US 
-- CDN - ?
-- Prices - 10$/month, multiple plans
-- Payment type - ?
-
 ### C-MEDIA
 - Products: Plex & Emby shares
 - Discord - [https://discord.gg/vMr3wwkrbG](https://discord.gg/vMr3wwkrbG)
@@ -75,7 +65,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Founder Plex
 - Products: Plex shares, Plex appboxes, Plex Baremetals
-- Discord - [https://discord.gg/kxB2bPkCNJ](https://discord.gg/kxB2bPkCNJ)
+- Discord - [https://discord.gg/kxB2bPkCNz](https://discord.gg/kxB2bPkCNz)
 - Content - 33K M, 9K TV Shows / 4K, Kids
 - Server location - US & NL
 - CDN - ?
@@ -84,7 +74,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Dunder Plex
 - Website - No
-- Discord - [https://discord.gg/WfvCHm7zbD](https://discord.gg/WfvCHm7zbD)
+- Discord - [https://discord.gg/WfvCHm7zbz](https://discord.gg/WfvCHm7zbz)
 - Content - 35K M, 9K TV Shows / 4K, Anime 
 - Server location - US 
 - CDN - ?
@@ -103,7 +93,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### PlexStory Inc
 - Website - No
-- Discord -  [https://discord.gg/QZm8UmQjhY](https://discord.gg/QZm8UmQjhY)
+- Discord -  [https://discord.gg/QZm8UmQjhz](https://discord.gg/QZm8UmQjhz)
 - Content - 27K M, 10K TV Shows / 4K, Anime 
 - Server location - US&EU
 - CDN - Yes
