@@ -22,8 +22,8 @@ This website is managed by an independent person who is not affiliated with any 
 - Products: Plex Shares, Emby Shares
 - Discord - [https://discord.gg/hdbits](https://discord.gg/hdbits)
 - Content - 146K+ M, 37K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
-- Server location - EU & US
-- CDN - No (but good peering)
+- Server location - US
+- CDN - Yes
 - Prices - 20$/month, multiple plans
 - Payment type - Paypal, Crypto, Card 
 
