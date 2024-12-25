@@ -12,7 +12,7 @@ This website is managed by an independent person who is not affiliated with any 
 ### Jill Media
 - Products: Plex shares, Plex appboxes, Emby shares, Emby appboxes
 - Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
-- Content - 41K M, 12K TV Shows / 4K, 4K DV, Anime
+- Content - 45K M, 14K TV Shows / 4K, 4K DV, Anime
 - Server location - Canada/USA
 - CDN - Yes
 - Prices - Starting at 7$/month, multiple plans
@@ -21,10 +21,10 @@ This website is managed by an independent person who is not affiliated with any 
 ### HDBits
 - Products: Plex Shares, Emby Shares
 - Discord - [https://discord.gg/hdbits](https://discord.gg/hdbits)
-- Content - 57K+ M, 19K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
+- Content - 146K+ M, 37K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
 - Server location - EU & US
 - CDN - No (but good peering)
-- Prices - 7$/month, multiple plans
+- Prices - 20$/month, multiple plans
 - Payment type - Paypal, Crypto, Card 
 
 ### Nocturno
