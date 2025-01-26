@@ -10,7 +10,7 @@ If you are a provider and would like to be added/removed from the list please su
 This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
 ### Jill Media
-- Products: Plex shares, Plex appboxes, Emby shares, Emby appboxes
+- Products: Plex Shares, Emby Shares
 - Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
 - Content - 45K M, 14K TV Shows / 4K, 4K DV, Anime
 - Server location - Canada/USA
@@ -25,6 +25,16 @@ This website is managed by an independent person who is not affiliated with any 
 - Server location - US
 - CDN - Yes
 - Prices - 20$/month, multiple plans
+- Payment type - Paypal, Crypto, Card 
+
+### Astralis
+- Products: Plex Shares, Emby Shares, Plex Appboxes, Emby Appboxes
+- Discord - [https://discord.gg/SFb9gAUrfE](https://discord.gg/SFb9gAUrfE)
+- Content - 70K+ M, 17K+ TV Shows | 4K HDR & 4K DV | Anime, Kids TV, Audiobooks & eBooks
+- Server location - EU & US
+- CDN - Yes
+- Prices - 10$/month, multiple plans
+- Trials - No
 - Payment type - Paypal, Crypto, Card 
 
 ### Nocturno
