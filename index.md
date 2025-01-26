@@ -1,113 +1,97 @@
 ## Welcome to PlexShare
 
-r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/plexshares Reddit has been closed on 05/19/2022.
+Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the closure of r/plexshares on May 19, 2022, this directory serves as a resource for finding media server providers.
 
-Below you are able to find a list with the providers.
+> **Note**: This directory is maintained by an independent party not affiliated with any listed providers.
 
-If you are a provider and would like to be added/removed from the list please submit a request here:[ https://forms.gle/s1W14JWsKSqZQ8jcA](https://forms.gle/s1W14JWsKSqZQ8jcA).
-
-## Providers (plex, emby, jellyfin)
-This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
+## Available Providers
 
 ### Jill Media
-- Products: Plex Shares, Emby Shares
-- Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
-- Content - 45K M, 14K TV Shows / 4K, 4K DV, Anime
-- Server location - Canada/USA
-- CDN - Yes
-- Prices - Starting at 7$/month, multiple plans
-- Payment type - Paypal, Card
+- **Library**: 45K Movies, 14K TV Shows, 4K, Dolby Vision, Anime
+- **Services**: Plex & Emby Shares
+- **Infrastructure**: Canada with CDN
+- **Pricing**: Starting at $8/month
+- **Payment**: PayPal, Credit Card
+- **Contact**: [Discord](https://discord.gg/fnrR2FFcun)
 
 ### HDBits
-- Products: Plex Shares, Emby Shares
-- Discord - [https://discord.gg/hdbits](https://discord.gg/hdbits)
-- Content - 146K+ M, 37K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
-- Server location - US
-- CDN - Yes
-- Prices - 20$/month, multiple plans
-- Payment type - Paypal, Crypto, Card 
+- **Library**: 146K+ Movies, 37K+ TV Shows, Anime, 4K HDR & 4K DV & REMUX
+- **Services**: Plex & Emby Shares
+- **Infrastructure**: US with CDN
+- **Pricing**: $20/month
+- **Payment**: PayPal, Crypto, Credit Card
+- **Contact**: [Discord](https://discord.gg/hdbits)
 
 ### Astralis
-- Products: Plex Shares, Emby Shares, Plex Appboxes, Emby Appboxes
-- Discord - [https://discord.gg/SFb9gAUrfE](https://discord.gg/SFb9gAUrfE)
-- Content - 70K+ M, 17K+ TV Shows | 4K HDR & 4K DV | Anime, Kids TV, Audiobooks & eBooks
-- Server location - EU & US
-- CDN - Yes
-- Prices - 10$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto, Card 
+- **Library**: 70K+ Movies, 17K+ TV Shows, 4K HDR & 4K DV, Anime, Kids TV, Audiobooks & eBooks
+- **Services**: Plex & Emby Shares, Plex & Emby Appboxes
+- **Infrastructure**: EU & US with CDN
+- **Pricing**: $10/month
+- **Payment**: PayPal, Crypto, Credit Card
+- **Contact**: [Discord](https://discord.gg/SFb9gAUrfE)
 
 ### Nocturno
-- Products: Plex shares, Emby shares
-- Discord - [https://discord.gg/4ZpEXKVn8u](https://discord.gg/4ZpEXKVn8u)
-- Content - 44K M, 15K TV Shows / 4K, Kids TV, Anime
-- Server location - EU & US
-- CDN - Yes
-- Prices - 10$/month, multiple plans
-- Payment type - Paypal, Crypto
+- **Library**: 44K Movies, 15K TV Shows, 4K, Kids TV, Anime
+- **Services**: Plex & Emby Shares
+- **Infrastructure**: US with CDN
+- **Pricing**: $9/month
+- **Payment**: PayPal, Crypto
+- **Contact**: [Discord](https://discord.gg/4ZpEXKVn8u)
 
 ### ZyfServer
-- Products: Plex appboxes, Emby Shares 
-- Discord - [https://discord.com/invite/pDtBCKSj5v](https://discord.com/invite/pDtBCKSj5v)
-- Content - 35K M, 10K TV Shows, 2800 Anime, Kids and 4K (Great anime collection)
-- Server location - EU
-- CDN - Yes
-- Prices - Starting at 10$/month, multiple plans
-- Payment type - Paypal, Crypto
+- **Library**: 35K Movies, 10K TV Shows, 2.8K Anime, Kids Content, 4K
+- **Services**: Plex Appboxes, Emby Shares
+- **Infrastructure**: EU with CDN
+- **Pricing**: Starting at $10/month
+- **Payment**: PayPal, Crypto
+- **Contact**: [Discord](https://discord.com/invite/pDtBCKSj5v)
 
 ### Wings and Plex
-- Products: Plex shares, Plex appboxes, Plex Baremetals 
-- Discord - [https://discord.gg/pg635XCdmd](https://discord.gg/pg635XCdmd)
-- Content - 21K M, 7K TV Shows / 4K M & 4K TV
-- Server location - EU
-- CDN - ?
-- Prices - 20$/month, multiple plans
-- Payment type - Paypal, Crypto
+- **Library**: 21K Movies, 7K TV Shows, 4K Content
+- **Services**: Plex Shares, Appboxes
+- **Infrastructure**: EU
+- **Pricing**: $20/month
+- **Payment**: PayPal, Crypto
+- **Contact**: [Discord](https://discord.gg/pg635XCdm)
 
 ### C-MEDIA
-- Products: Plex & Emby shares
-- Discord - [https://discord.gg/vMr3wwkrbG](https://discord.gg/vMr3wwkrbG)
-- Content - 70K M, 20K TV Shows / 4K, 4K DV, Kids TV, Anime
-- Server location - US
-- CDN - Yes
-- Prices - $15/m 1 stream, aditional streams at 5$
-- Payment type - Paypal, Crypto
+- **Library**: 70K Movies, 20K TV Shows, 4K, Dolby Vision, Kids TV, Anime
+- **Services**: Plex & Emby Shares
+- **Infrastructure**: US with CDN
+- **Pricing**: $15/month (1 stream), +$5 per additional stream
+- **Payment**: PayPal, Crypto
+- **Contact**: [Discord](https://discord.gg/vMr3wwkrbG)
 
 ### Founder Plex
-- Products: Plex shares, Plex appboxes, Plex Baremetals
-- Discord - [https://discord.gg/kxB2bPkCNz](https://discord.gg/kxB2bPkCNz)
-- Content - 33K M, 9K TV Shows / 4K, Kids
-- Server location - US & NL
-- CDN - ?
-- Prices - 10$/month, multiple plans
-- Payment type - Paypal, Crypto
+- **Library**: 33K Movies, 9K TV Shows, 4K, Kids Content
+- **Services**: Plex Shares, Appboxes
+- **Infrastructure**: US & NL
+- **Pricing**: $10/month
+- **Payment**: PayPal, Crypto
+- **Contact**: [Discord](https://discord.gg/kxB2bPkCNz)
 
 ### Dunder Plex
-- Website - No
-- Discord - [https://discord.gg/WfvCHm7zbz](https://discord.gg/WfvCHm7zbz)
-- Content - 35K M, 9K TV Shows / 4K, Anime 
-- Server location - US 
-- CDN - ?
-- Prices - 10$/month, multiple plans
-- Payment type - Paypal, Crypto
+- **Library**: 35K Movies, 9K TV Shows, 4K, Anime
+- **Infrastructure**: US
+- **Pricing**: $10/month
+- **Payment**: PayPal, Crypto
+- **Contact**: [Discord](https://discord.gg/WfvCHm7zbz)
 
 ### Rogue Streamz
-- Products: Plex shares, Plex appboxes, Emby shares, Emby appboxes
-- Website - [roguestreamz.cc](http://roguestreamz.cc/)
-- Discord -  [discord.gg/roguestreamz](https://discord.com/invite/roguestreamz)
-- Content - 24K M, 10K TV Shows / 4K, Anime, Kids
-- Server location - US & EU
-- CDN - Yes
-- Prices - 8$/month, multiple plans
-- Payment type - Paypal
+- **Library**: 24K Movies, 10K TV Shows, 4K, Anime, Kids Content
+- **Services**: Plex & Emby Shares and Appboxes
+- **Infrastructure**: US & EU with CDN
+- **Pricing**: $8/month
+- **Payment**: PayPal
+- **Contact**: [Discord](https://discord.com/invite/WsfvCHm7zba)
 
 ### PlexStory Inc
-- Website - No
-- Discord -  [https://discord.gg/QZm8UmQjhz](https://discord.gg/QZm8UmQjhz)
-- Content - 27K M, 10K TV Shows / 4K, Anime 
-- Server location - US&EU
-- CDN - Yes
-- Prices - 11$/month, multiple plans
-- Payment type - Paypal
+- **Library**: 27K Movies, 10K TV Shows, 4K, Anime
+- **Infrastructure**: US & EU with CDN
+- **Pricing**: $11/month
+- **Payment**: PayPal
+- **Contact**: [Discord](https://discord.gg/QZm8UmQjhz)
 
-If you are a provider please submit a request at: [ https://forms.gle/s1W14JWsKSqZQ8jcA](https://forms.gle/s1W14JWsKSqZQ8jcA)
+---
+
+Are you a provider? [Submit your listing](https://forms.gle/s1W14JWsKSqZQ8jcA)
