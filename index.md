@@ -1,4 +1,4 @@
-# Welcome to PlexShare
+## Welcome to PlexShare
 
 Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the closure of r/plexshares on May 19, 2022, this directory serves as a resource for finding media server providers.
 
