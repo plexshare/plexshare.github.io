@@ -6,14 +6,6 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 
 ## Available Providers
 
-### Jill Media
-- **Library**: 45K Movies, 14K TV Shows, 4K, Dolby Vision, Anime
-- **Services**: Plex & Emby Shares
-- **Infrastructure**: Canada with CDN
-- **Pricing**: Starting at $8/month
-- **Payment**: PayPal, Credit Card
-- **Contact**: [Discord](https://discord.gg/fnrR2FFcun)
-
 ### Astralis
 - **Library**: 70K+ Movies, 17K+ TV Shows, 4K HDR & 4K DV, Anime, Kids TV, Audiobooks & eBooks
 - **Services**: Plex & Emby Shares, Plex & Emby Appboxes
@@ -69,7 +61,7 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 - **Payment**: PayPal, Crypto
 - **Contact**: [Discord](https://discord.gg/WfvCHm7zbz)
 
-### Rogue Streamz
+### Rogue Streams
 - **Library**: 24K Movies, 10K TV Shows, 4K, Anime, Kids Content
 - **Services**: Plex & Emby Shares and Appboxes
 - **Infrastructure**: US & EU with CDN
