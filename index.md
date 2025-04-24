@@ -6,16 +6,14 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 
 ## Available Providers
 
-### HDBits
-- **Library**: 44K Movies, 15K TV Shows, 4K, Kids TV, Anime, Bollywood
+### Apache
+- **Library**: 25K+ Movies, 7K+ TV Shows, 4K HDR, Anime, Kids TV, Audiobooks & eBooks
 - **Services**: Plex & Emby Shares
-- **Infrastructure**: EU & US
-- **Pricing**: Starting at $7/month
-- **Payment**: Paypal, Crypto, Card, Revolut
-- **Contact**: [Discord](https://discord.gg/PZXGRXU5BZ)
+- **Infrastructure**: EU & US with CDN
+- **Pricing**: $7/month
+- **Payment**: PayPal, Crypto, Card
+- **Contact**: [Discord](https://discord.gg/SDAyHrGSuv)
  
-
-
 ### Astralis
 - **Library**: 70K+ Movies, 17K+ TV Shows, 4K HDR & 4K DV, Anime, Kids TV, Audiobooks & eBooks
 - **Services**: Plex & Emby Shares, Plex & Emby Appboxes
