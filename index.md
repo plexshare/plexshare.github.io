@@ -14,24 +14,16 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 - **Payment**: PayPal, Crypto, Credit Card
 - **Contact**: [Discord](https://discord.gg/QUDaUuuv2N)
 
-### Apache
-- **Library**: 25K+ Movies, 7K+ TV Shows, 4K HDR, Anime, Kids TV & Audiobooks
+### Arcadia
+- **Library**: 26K+ Movies, 7K+ TV Shows, 4K HDR, Anime, Kids TV & Audiobooks
 - **Services**: Plex & Emby Shares
 - **Infrastructure**: EU & US with CDN
 - **Pricing**: $7/month
 - **Payment**: PayPal, Crypto, Card
 - **Contact**: [Discord](https://discord.gg/SDAyHrGSuv)
 
-### Nocturno
-- **Library**: 44K Movies, 15K TV Shows, 4K, Kids TV, Anime
-- **Services**: Plex & Emby Shares
-- **Infrastructure**: US with CDN
-- **Pricing**: $9/month
-- **Payment**: PayPal, Crypto
-- **Contact**: [Discord](https://discord.gg/4ZpEXKVn8u)
-
 ### Legendary
-- **Library**: 38K Movies, 14K TV Shows, 4K, Kids TV, Anime
+- **Library**: 20K Movies, 5.5K TV Shows, 4K, Kids TV, Anime
 - **Services**: Plex Shares
 - **Infrastructure**: EU with CDN
 - **Pricing**: $7/month
@@ -39,7 +31,7 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 - **Contact**: [Discord](https://discord.gg/Zv5bsbugud)
 
 ### ZyfServer
-- **Library**: 35K Movies, 10K TV Shows, 2.8K Anime, Kids Content, 4K
+- **Library**: 22K Movies, 10K TV Shows, 2.8K Anime, Kids Content, 4K
 - **Services**: Plex Appboxes, Emby Shares
 - **Infrastructure**: EU with CDN
 - **Pricing**: Starting at $10/month
@@ -55,7 +47,7 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 - **Contact**: [Discord](https://discord.gg/pg635XCdm)
 
 ### C-MEDIA
-- **Library**: 70K Movies, 20K TV Shows, 4K, Dolby Vision, Kids TV, Anime
+- **Library**: 19K Movies, 7K TV Shows, 4K, Dolby Vision, Kids TV, Anime
 - **Services**: Plex & Emby Shares
 - **Infrastructure**: US with CDN
 - **Pricing**: $15/month (1 stream), +$5 per additional stream
@@ -63,7 +55,7 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 - **Contact**: [Discord](https://discord.gg/vMr3wwkrbG)
 
 ### Founder Plex
-- **Library**: 33K Movies, 9K TV Shows, 4K, Kids Content
+- **Library**: 13K Movies, 3K TV Shows, 4K, Kids Content
 - **Services**: Plex Shares, Appboxes
 - **Infrastructure**: US & NL
 - **Pricing**: $10/month
@@ -71,7 +63,7 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 - **Contact**: [Discord](https://discord.gg/kxB2bPkCNz)
 
 ### Dunder Plex
-- **Library**: 35K Movies, 9K TV Shows, 4K, Anime
+- **Library**: 15K Movies, 6K TV Shows, 4K, Anime
 - **Infrastructure**: US
 - **Pricing**: $10/month
 - **Payment**: PayPal, Crypto
