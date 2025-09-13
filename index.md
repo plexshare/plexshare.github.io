@@ -22,14 +22,6 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 - **Payment**: PayPal, Crypto, Card
 - **Contact**: [Discord](https://discord.gg/SDAyHrGSuv)
 
-### Legendary
-- **Library**: 20K Movies, 5.5K TV Shows, 4K, Kids TV, Anime
-- **Services**: Plex Shares
-- **Infrastructure**: EU with CDN
-- **Pricing**: $7/month
-- **Payment**: PayPal, Crypto
-- **Contact**: [Discord](https://discord.gg/Zv5bsbugud)
-
 ### ZyfServer
 - **Library**: 22K Movies, 10K TV Shows, 2.8K Anime, Kids Content, 4K
 - **Services**: Plex Appboxes, Emby Shares
