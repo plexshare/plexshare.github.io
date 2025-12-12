@@ -20,7 +20,7 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 - **Infrastructure**: EU & US with CDN
 - **Pricing**: $10/month
 - **Payment**: PayPal, Crypto, Card
-- **Website**: [IvyBee.io][https://ivybee.io]
+- **Website**: [IvyBee.io](https://ivybee.io)
 - **Contact**: [Discord](https://discord.gg/BRKpWyGnM4)
 
 ### ZyfServer
