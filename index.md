@@ -8,19 +8,19 @@ Your comprehensive guide to Plex, Emby, and Jellyfin providers. Following the cl
 
 ### Astralis
 - **Library**: 70K+ Movies, 17K+ TV Shows, 4K HDR & 4K DV, Anime, Kids TV, Audiobooks & eBooks
-- **Services**: Plex & Emby Shares, Plex & Emby Appboxes
+- **Services**: Plex & Emby Appboxes, Emby Shares
 - **Infrastructure**: EU & US with CDN
 - **Pricing**: $10/month
-- **Payment**: PayPal, Crypto, Credit Card
-- **Contact**: [Discord](https://discord.gg/QUDaUuuv2N)
-
-### Arcadia
-- **Library**: 26K+ Movies, 7K+ TV Shows, 4K HDR, Anime, Kids TV & Audiobooks
-- **Services**: Plex & Emby Shares
-- **Infrastructure**: EU & US with CDN
-- **Pricing**: $7/month
 - **Payment**: PayPal, Crypto, Card
 - **Contact**: [Discord](https://discord.gg/SDAyHrGSuv)
+
+### IvyBee
+- **Library**: 27K+ Movies, 7K+ TV Shows, 4K HDR & 4K DV, Anime, Kids TV & Audiobooks
+- **Services**: Plex & Emby Appboxes, Plex & Emby Shares
+- **Infrastructure**: EU & US with CDN
+- **Pricing**: $10/month
+- **Payment**: PayPal, Crypto, Card
+- **Contact**: [Discord](https://discord.gg/BRKpWyGnM4)
 
 ### ZyfServer
 - **Library**: 22K Movies, 10K TV Shows, 2.8K Anime, Kids Content, 4K
